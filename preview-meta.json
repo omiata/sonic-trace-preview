@@ -1,6 +1,6 @@
 {
     "sourceRepository":  "https://github.com/omiata/sonic-trace.git",
-    "sourceCommit":  "5234656174076ae0dbfefdff6cbe68b043ec9e79",
-    "generatedUtc":  "2026-10-21T15:29:52.9193023Z",
+    "sourceCommit":  "890d77a6e2147081dced0a9590e6cc8a2f80fcee",
+    "generatedUtc":  "2026-10-21T15:42:16.1047880Z",
     "note":  "Generated Sonic Trace preview artifact. Source of truth remains the configured private repository."
 }
